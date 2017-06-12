@@ -1,2 +1,0 @@
-git log --name-status >> name-status.txt
-git log --stat >> stat.txt

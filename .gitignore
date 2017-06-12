@@ -1,1 +1,5 @@
 .vs/
+.paket/
+!.paket/paket.bootstrapper.exe
+paket.lock
+packages/
